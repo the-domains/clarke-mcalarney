@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[clarke-mcalarney]]></title>
         <description><![CDATA[clarke-mcalarney]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/clarke-mcalarney/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 06 Jul 2016 17:03:12 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 06 Jul 2016 17:03:13 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/clarke-mcalarney/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/15b1f7c236ee517e11a7757ed9d42b1f/croprotate.jpg?cropheight=5223&cropwidth=7368&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F6b5d2129-63a7-47ff-ab43-039f5ccd0e62.jpg&x=0&y=0" alt="Class Assignment - hand drafted &quot;Wait Until Dark&quot; elevations">]]></description>
+            <link>https://thegrid.ai/clarke-mcalarney/class-assignment-hand-drafted-wait-until-dark-elevations/index.html</link>
+            <guid isPermaLink="false">8269f1b9-7498-4b09-a65c-ff65d85d5097</guid>
+            <pubDate>Wed, 06 Jul 2016 17:03:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/ee044d11e359f401e7727f77b35d75e9/croprotate.png?cropheight=6506&cropwidth=5057&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fb4fe9c7e-9d1e-4c1f-8b3e-04ebd59b8f58.png&x=0&y=0" alt="Class Assignment - quick sketch of babies">]]></description>
-            <link>undefinedclass-assignment-quick-sketch-of-babies/index.html</link>
+            <link>https://thegrid.ai/clarke-mcalarney/class-assignment-quick-sketch-of-babies/index.html</link>
             <guid isPermaLink="false">f26339bc-db5f-4c2c-9efd-9f426d240816</guid>
             <pubDate>Wed, 06 Jul 2016 17:03:09 GMT</pubDate>
         </item>
