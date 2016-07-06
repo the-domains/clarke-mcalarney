@@ -1,0 +1,14 @@
+layout_spectrum: 0.37812744406983256
+typography_spectrum: 0.43944874964654446
+color:
+  brandStrength: 0.16876119375228882
+  lightness: 0.6283787488937378
+  saturation: 0.5970557224936783
+  rhythmicContrast: 0.910430442309007
+  brandColors:
+    - '#000000'
+    - '#263248'
+    - '#7E8AA2'
+    - '#FFFFFF'
+    - '#FF9800'
+name: clarke-mcalarney
