@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[clarke-mcalarney]]></title>
+        <description><![CDATA[clarke-mcalarney]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 06 Jul 2016 17:03:12 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/ee044d11e359f401e7727f77b35d75e9/croprotate.png?cropheight=6506&cropwidth=5057&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fb4fe9c7e-9d1e-4c1f-8b3e-04ebd59b8f58.png&x=0&y=0" alt="Class Assignment - quick sketch of babies">]]></description>
+            <link>undefinedclass-assignment-quick-sketch-of-babies/index.html</link>
+            <guid isPermaLink="false">f26339bc-db5f-4c2c-9efd-9f426d240816</guid>
+            <pubDate>Wed, 06 Jul 2016 17:03:09 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
